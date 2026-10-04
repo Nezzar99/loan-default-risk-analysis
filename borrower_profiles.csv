@@ -1,0 +1,501 @@
+borrower_id,age,state,education_level,employment_status,years_employed,annual_income,credit_score,home_ownership,dependents,existing_monthly_debt
+BRW-0001,62,CT,High School,Self-Employed,6,31020,596,Rent,1,892
+BRW-0002,24,CO,High School,Full-Time,4,40188,543,Own,2,869
+BRW-0003,50,NC,Bachelor,Contract,22,41014,611,Mortgage,0,1806
+BRW-0004,43,TX,High School,Full-Time,19,35036,701,Mortgage,2,928
+BRW-0005,46,NY,High School,Full-Time,18,44528,715,Own,0,608
+BRW-0006,40,OR,Doctorate,Contract,8,157047,749,Mortgage,1,3076
+BRW-0007,35,GA,Bachelor,Self-Employed,5,84210,576,Mortgage,0,1682
+BRW-0008,62,KY,Bachelor,Full-Time,14,61289,563,Rent,1,939
+BRW-0009,35,UT,Master,Part-Time,15,63908,643,Mortgage,2,646
+BRW-0010,30,WA,Associate,Part-Time,6,22845,824,Rent,1,1044
+BRW-0011,30,KY,Bachelor,Full-Time,2,43606,586,Mortgage,2,1265
+BRW-0012,46,FL,Bachelor,Retired,0,44614,813,Rent,2,1184
+BRW-0013,39,AL,Master,Full-Time,14,79782,615,Own,3,1207
+BRW-0014,54,IN,Master,Full-Time,19,63730,850,Rent,2,671
+BRW-0015,32,CA,Bachelor,Self-Employed,9,74436,535,Mortgage,0,1435
+BRW-0016,41,OR,Associate,Full-Time,2,55611,570,Rent,0,1994
+BRW-0017,30,AZ,High School,Full-Time,8,41753,665,Rent,4,1790
+BRW-0018,68,MA,Bachelor,Self-Employed,28,66055,726,Rent,0,893
+BRW-0019,43,TX,High School,Part-Time,2,23712,528,Rent,0,993
+BRW-0020,43,UT,High School,Full-Time,17,45948,639,Own,3,1294
+BRW-0021,37,AZ,Master,Contract,13,70937,584,Mortgage,1,2450
+BRW-0022,65,OH,Bachelor,Part-Time,6,24456,698,Own,1,244
+BRW-0023,33,MO,Associate,Full-Time,12,72054,761,Rent,0,2258
+BRW-0024,56,TN,Master,Retired,10,80449,661,Mortgage,0,1679
+BRW-0025,25,AL,High School,Full-Time,2,36142,757,Mortgage,4,987
+BRW-0026,67,NJ,Bachelor,Full-Time,34,54489,559,Own,0,1553
+BRW-0027,54,NY,Master,Full-Time,5,59480,790,Rent,2,1921
+BRW-0028,37,AZ,Bachelor,Retired,1,46167,826,Mortgage,2,1279
+BRW-0029,42,MN,Master,Full-Time,8,116049,667,Mortgage,2,2694
+BRW-0030,26,IN,High School,Part-Time,0,23219,576,Mortgage,0,999
+BRW-0031,26,KY,Master,Full-Time,5,68134,813,Mortgage,2,306
+BRW-0032,57,FL,Associate,Self-Employed,16,72778,603,Own,2,774
+BRW-0033,40,NC,Bachelor,Self-Employed,8,53589,850,Mortgage,3,2112
+BRW-0034,27,NC,Bachelor,Contract,2,43412,700,Mortgage,0,980
+BRW-0035,67,VA,Bachelor,Full-Time,34,45400,606,Own,2,469
+BRW-0036,30,GA,High School,Full-Time,5,55244,550,Own,2,1044
+BRW-0037,57,KY,Master,Full-Time,15,107852,624,Rent,3,4410
+BRW-0038,23,KY,High School,Retired,1,29964,735,Mortgage,2,602
+BRW-0039,24,KY,Master,Full-Time,2,124663,785,Mortgage,3,1677
+BRW-0040,64,WA,High School,Full-Time,22,52825,672,Mortgage,2,2077
+BRW-0041,43,NC,Master,Full-Time,18,137860,641,Rent,0,4001
+BRW-0042,44,MD,Master,Full-Time,3,106612,806,Mortgage,0,641
+BRW-0043,49,MN,High School,Retired,11,24811,625,Mortgage,3,747
+BRW-0044,64,SC,Master,Self-Employed,26,80367,698,Mortgage,0,761
+BRW-0045,48,WA,Bachelor,Full-Time,19,88330,629,Mortgage,1,369
+BRW-0046,40,MN,Associate,Self-Employed,14,57427,694,Mortgage,0,1371
+BRW-0047,32,LA,Bachelor,Full-Time,5,82953,850,Own,0,1418
+BRW-0048,34,MA,High School,Full-Time,13,57034,842,Rent,1,1734
+BRW-0049,34,CT,Master,Full-Time,10,88890,615,Rent,2,3222
+BRW-0050,28,GA,Master,Full-Time,7,123592,815,Own,3,1139
+BRW-0051,30,CT,Master,Self-Employed,5,139361,850,Rent,1,5313
+BRW-0052,54,LA,Bachelor,Contract,30,69049,616,Mortgage,0,2122
+BRW-0053,55,NJ,Bachelor,Full-Time,15,68663,681,Mortgage,3,516
+BRW-0054,31,MO,Associate,Self-Employed,6,62036,567,Mortgage,1,419
+BRW-0055,48,MD,Bachelor,Self-Employed,27,100958,555,Rent,1,445
+BRW-0056,44,MO,Associate,Full-Time,17,70593,749,Rent,2,2934
+BRW-0057,53,OR,Associate,Full-Time,25,30740,697,Rent,1,291
+BRW-0058,61,IL,Bachelor,Contract,5,78362,548,Mortgage,3,919
+BRW-0059,38,OR,Bachelor,Full-Time,8,61452,729,Rent,1,2393
+BRW-0060,52,LA,High School,Full-Time,14,57596,709,Rent,4,336
+BRW-0061,23,MN,Master,Full-Time,1,56348,608,Own,0,2459
+BRW-0062,51,PA,Bachelor,Self-Employed,7,51304,840,Rent,4,444
+BRW-0063,23,OH,Master,Part-Time,3,72879,727,Rent,0,2400
+BRW-0064,62,MD,Associate,Self-Employed,7,43333,837,Rent,2,807
+BRW-0065,49,TN,Bachelor,Full-Time,27,81913,546,Mortgage,0,3620
+BRW-0066,62,NC,Master,Full-Time,33,67726,625,Rent,2,2877
+BRW-0067,52,NY,Bachelor,Contract,15,78399,700,Rent,0,1799
+BRW-0068,51,OH,Bachelor,Self-Employed,20,62062,788,Own,1,926
+BRW-0069,39,NY,Master,Self-Employed,16,78303,540,Rent,0,1652
+BRW-0070,57,NY,Master,Self-Employed,28,110018,796,Rent,0,2312
+BRW-0071,37,AL,Associate,Part-Time,11,28195,796,Mortgage,2,530
+BRW-0072,51,MO,Associate,Full-Time,20,34974,623,Own,4,1151
+BRW-0073,34,FL,Associate,Full-Time,9,62875,803,Mortgage,3,1038
+BRW-0074,45,MO,High School,Full-Time,1,41201,670,Rent,0,1792
+BRW-0075,62,MA,Master,Full-Time,18,129479,843,Mortgage,1,5748
+BRW-0076,38,CO,Master,Full-Time,15,125137,755,Own,2,1312
+BRW-0077,58,KY,Master,Full-Time,26,75894,820,Mortgage,2,2769
+BRW-0078,46,TX,Bachelor,Full-Time,9,95478,759,Mortgage,2,3342
+BRW-0079,35,PA,Bachelor,Full-Time,5,45779,652,Mortgage,0,1050
+BRW-0080,60,GA,Bachelor,Full-Time,29,58981,674,Own,3,2181
+BRW-0081,62,IL,Bachelor,Contract,34,53220,588,Own,3,2054
+BRW-0082,26,MA,High School,Self-Employed,2,43345,821,Mortgage,2,1444
+BRW-0083,39,WI,Bachelor,Full-Time,13,45732,550,Rent,0,364
+BRW-0084,65,PA,Master,Part-Time,2,74897,672,Rent,1,2345
+BRW-0085,39,AZ,High School,Part-Time,2,24609,776,Mortgage,1,789
+BRW-0086,32,MA,Associate,Self-Employed,12,42715,735,Mortgage,0,627
+BRW-0087,29,TX,Doctorate,Full-Time,8,120275,550,Mortgage,0,2314
+BRW-0088,53,MA,Bachelor,Self-Employed,8,53587,811,Rent,3,1305
+BRW-0089,23,MO,Doctorate,Part-Time,2,50328,611,Mortgage,1,680
+BRW-0090,29,NC,Bachelor,Full-Time,4,93690,795,Mortgage,1,2273
+BRW-0091,52,IL,Associate,Part-Time,32,25916,831,Rent,3,406
+BRW-0092,48,OR,Associate,Self-Employed,9,41743,531,Rent,2,1911
+BRW-0093,53,NJ,Master,Full-Time,24,96156,710,Mortgage,3,4330
+BRW-0094,37,SC,Bachelor,Full-Time,10,90079,562,Rent,3,1806
+BRW-0095,64,MD,Master,Self-Employed,8,67650,553,Mortgage,1,564
+BRW-0096,50,IL,High School,Contract,13,22940,598,Rent,0,842
+BRW-0097,38,NJ,Associate,Self-Employed,17,59422,698,Mortgage,2,2444
+BRW-0098,53,AL,Master,Full-Time,18,60470,850,Rent,0,2716
+BRW-0099,62,KY,Master,Full-Time,1,68874,688,Own,0,1315
+BRW-0100,49,WI,High School,Full-Time,5,42320,622,Own,3,1269
+BRW-0101,37,MN,Bachelor,Part-Time,8,30477,850,Mortgage,0,1148
+BRW-0102,40,AZ,Bachelor,Full-Time,18,68782,711,Mortgage,2,1595
+BRW-0103,41,MD,High School,Full-Time,12,39408,646,Mortgage,0,1312
+BRW-0104,23,AL,Doctorate,Self-Employed,0,95183,829,Rent,1,3982
+BRW-0105,40,NC,Master,Full-Time,20,123405,662,Own,2,4221
+BRW-0106,64,MA,Bachelor,Full-Time,2,46799,850,Mortgage,0,906
+BRW-0107,30,MO,High School,Full-Time,3,48711,619,Own,3,945
+BRW-0108,54,NJ,Master,Contract,18,76648,781,Rent,3,1815
+BRW-0109,26,VA,High School,Retired,6,31605,728,Rent,0,651
+BRW-0110,38,CO,Bachelor,Full-Time,18,83526,674,Mortgage,3,725
+BRW-0111,36,CO,Bachelor,Part-Time,7,55425,697,Mortgage,3,2331
+BRW-0112,41,FL,Bachelor,Full-Time,9,43493,549,Rent,0,1789
+BRW-0113,30,AL,Bachelor,Full-Time,6,101170,821,Mortgage,0,2170
+BRW-0114,28,OH,Master,Part-Time,0,74343,678,Rent,1,3254
+BRW-0115,45,NC,High School,Self-Employed,11,41565,850,Own,0,384
+BRW-0116,51,GA,High School,Full-Time,3,44910,540,Rent,4,1659
+BRW-0117,35,IL,High School,Self-Employed,7,29691,635,Mortgage,2,861
+BRW-0118,39,OK,Master,Full-Time,5,65753,663,Own,0,314
+BRW-0119,37,AL,Bachelor,Full-Time,13,57530,594,Mortgage,0,1314
+BRW-0120,45,UT,Bachelor,Full-Time,1,72744,849,Rent,3,1883
+BRW-0121,51,TN,Bachelor,Full-Time,27,104309,750,Rent,2,2362
+BRW-0122,27,WI,Associate,Full-Time,5,35230,844,Mortgage,1,812
+BRW-0123,60,CT,Bachelor,Self-Employed,13,47899,812,Mortgage,0,876
+BRW-0124,51,IL,Bachelor,Self-Employed,16,60540,695,Mortgage,2,1448
+BRW-0125,27,MD,Master,Full-Time,2,62885,725,Mortgage,4,1733
+BRW-0126,64,WI,High School,Full-Time,3,45819,746,Rent,1,388
+BRW-0127,54,VA,Associate,Self-Employed,22,39760,580,Rent,0,627
+BRW-0128,36,MN,Master,Contract,0,138216,850,Mortgage,3,2116
+BRW-0129,33,IL,Associate,Self-Employed,0,71975,714,Own,2,1501
+BRW-0130,31,MA,Master,Retired,3,37483,796,Mortgage,1,734
+BRW-0131,68,WI,Associate,Retired,9,34167,551,Own,0,258
+BRW-0132,50,FL,Bachelor,Full-Time,6,68802,674,Rent,1,604
+BRW-0133,65,WI,Bachelor,Full-Time,14,83163,563,Mortgage,0,1054
+BRW-0134,35,AZ,Master,Self-Employed,0,79434,596,Mortgage,0,1589
+BRW-0135,67,AL,Associate,Part-Time,4,33144,706,Mortgage,0,163
+BRW-0136,26,WA,Master,Part-Time,3,57088,850,Mortgage,0,1010
+BRW-0137,61,MD,Bachelor,Self-Employed,6,63686,758,Own,1,474
+BRW-0138,41,IN,Master,Full-Time,16,121448,589,Mortgage,1,5090
+BRW-0139,44,NC,Bachelor,Retired,7,49067,605,Own,0,1436
+BRW-0140,63,CT,High School,Retired,28,26701,762,Rent,2,818
+BRW-0141,61,CO,Associate,Retired,4,26403,750,Mortgage,1,412
+BRW-0142,25,MI,Bachelor,Full-Time,0,70059,554,Mortgage,0,2814
+BRW-0143,27,KY,Bachelor,Full-Time,0,70121,818,Mortgage,2,842
+BRW-0144,60,NY,Bachelor,Full-Time,21,44547,582,Rent,1,505
+BRW-0145,37,UT,Master,Retired,5,59739,842,Mortgage,0,1266
+BRW-0146,43,MO,Bachelor,Full-Time,2,80850,711,Mortgage,2,1294
+BRW-0147,68,MN,Master,Retired,21,63786,611,Own,0,1195
+BRW-0148,63,CO,Bachelor,Full-Time,19,78563,578,Mortgage,2,2989
+BRW-0149,64,AZ,Master,Retired,5,84093,809,Mortgage,1,414
+BRW-0150,41,IL,High School,Full-Time,6,55757,778,Own,0,919
+BRW-0151,28,CT,Bachelor,Full-Time,0,87725,809,Rent,2,844
+BRW-0152,46,AL,High School,Full-Time,25,46788,849,Rent,1,995
+BRW-0153,65,MI,Master,Retired,14,64193,764,Mortgage,4,2365
+BRW-0154,34,WA,Bachelor,Retired,12,62044,771,Mortgage,1,1340
+BRW-0155,32,OK,Master,Contract,0,66474,663,Mortgage,1,2864
+BRW-0156,67,IN,Master,Contract,17,79058,617,Mortgage,0,1770
+BRW-0157,36,VA,Master,Contract,1,134434,762,Mortgage,0,6130
+BRW-0158,45,TX,Associate,Full-Time,25,33977,696,Own,0,1316
+BRW-0159,66,CA,Master,Self-Employed,0,94849,850,Rent,0,3695
+BRW-0160,57,TX,Master,Part-Time,15,50003,677,Mortgage,0,1539
+BRW-0161,61,IN,Bachelor,Full-Time,34,98348,845,Own,2,3354
+BRW-0162,40,NY,Bachelor,Part-Time,5,30770,738,Rent,1,590
+BRW-0163,55,TX,Bachelor,Self-Employed,24,72986,545,Rent,2,3287
+BRW-0164,38,AL,Master,Full-Time,3,60396,658,Rent,2,587
+BRW-0165,44,PA,Bachelor,Contract,22,51770,767,Mortgage,3,351
+BRW-0166,51,IN,High School,Full-Time,20,50247,551,Rent,1,1916
+BRW-0167,52,NJ,Associate,Self-Employed,3,38228,707,Rent,0,1432
+BRW-0168,49,TN,Master,Self-Employed,10,131359,747,Rent,2,2557
+BRW-0169,55,NJ,Associate,Full-Time,11,49011,750,Mortgage,0,873
+BRW-0170,40,AL,Associate,Part-Time,11,26997,752,Mortgage,3,509
+BRW-0171,49,VA,Associate,Retired,21,43915,568,Mortgage,1,1555
+BRW-0172,32,GA,Doctorate,Full-Time,0,129991,774,Own,2,2525
+BRW-0173,46,LA,Master,Full-Time,11,67764,765,Mortgage,0,671
+BRW-0174,45,TN,Bachelor,Part-Time,0,31088,583,Rent,1,1312
+BRW-0175,29,TN,Associate,Full-Time,4,50017,843,Rent,0,491
+BRW-0176,26,OK,Bachelor,Contract,6,68998,579,Rent,4,2207
+BRW-0177,67,IN,High School,Full-Time,11,53774,610,Rent,0,2431
+BRW-0178,30,MO,Associate,Full-Time,5,46073,823,Mortgage,0,1889
+BRW-0179,26,OR,Associate,Retired,3,37566,794,Rent,2,352
+BRW-0180,42,LA,Bachelor,Full-Time,4,83990,716,Rent,2,2406
+BRW-0181,30,PA,Bachelor,Contract,8,44135,593,Own,0,1902
+BRW-0182,36,MO,Associate,Retired,8,42447,570,Own,0,1282
+BRW-0183,61,WI,Bachelor,Full-Time,9,51358,827,Own,2,1508
+BRW-0184,58,LA,High School,Contract,16,25259,850,Rent,2,755
+BRW-0185,23,KY,Bachelor,Part-Time,3,32494,679,Own,2,538
+BRW-0186,26,IL,Bachelor,Full-Time,1,67116,772,Mortgage,1,2288
+BRW-0187,68,NJ,Doctorate,Full-Time,32,108165,734,Mortgage,0,1002
+BRW-0188,50,GA,Associate,Full-Time,27,42807,726,Mortgage,4,1787
+BRW-0189,42,MA,Master,Self-Employed,15,70887,616,Rent,1,1206
+BRW-0190,23,TX,High School,Full-Time,1,38494,648,Mortgage,0,954
+BRW-0191,63,NC,Bachelor,Full-Time,27,41121,585,Own,2,1480
+BRW-0192,45,WA,High School,Full-Time,17,42175,715,Mortgage,1,1519
+BRW-0193,39,KY,Master,Part-Time,3,58864,595,Mortgage,4,1613
+BRW-0194,45,IL,Master,Full-Time,1,98282,796,Own,2,3701
+BRW-0195,55,WI,Bachelor,Part-Time,20,40418,697,Own,2,672
+BRW-0196,43,CA,Bachelor,Full-Time,9,71852,823,Mortgage,1,2316
+BRW-0197,48,NC,Bachelor,Self-Employed,0,86875,850,Mortgage,4,3195
+BRW-0198,59,WI,Bachelor,Self-Employed,33,77828,622,Mortgage,2,1557
+BRW-0199,65,AZ,Associate,Part-Time,1,33970,622,Mortgage,0,1118
+BRW-0200,48,OH,Bachelor,Part-Time,22,38878,556,Own,2,1778
+BRW-0201,52,MN,Bachelor,Full-Time,21,51649,802,Mortgage,2,1766
+BRW-0202,63,GA,Master,Full-Time,17,96142,666,Mortgage,3,4335
+BRW-0203,40,UT,Master,Self-Employed,11,96556,785,Mortgage,2,1502
+BRW-0204,29,KY,Bachelor,Full-Time,5,97749,742,Rent,0,578
+BRW-0205,67,MO,High School,Retired,13,27294,770,Own,0,752
+BRW-0206,39,IN,High School,Part-Time,1,23680,649,Rent,0,328
+BRW-0207,28,UT,Bachelor,Self-Employed,0,47014,600,Rent,0,1474
+BRW-0208,52,UT,Bachelor,Full-Time,18,102097,709,Mortgage,2,3200
+BRW-0209,36,PA,Bachelor,Self-Employed,13,100359,634,Rent,3,570
+BRW-0210,47,MD,Master,Full-Time,1,118864,693,Own,2,5093
+BRW-0211,43,MA,Associate,Retired,4,32700,777,Rent,0,1238
+BRW-0212,43,KY,High School,Full-Time,0,31455,620,Rent,0,1014
+BRW-0213,34,WA,High School,Contract,8,53975,748,Mortgage,2,640
+BRW-0214,30,NC,Bachelor,Retired,3,24621,721,Mortgage,4,412
+BRW-0215,68,MA,Bachelor,Full-Time,3,63539,655,Rent,1,1338
+BRW-0216,54,GA,Master,Contract,18,120652,610,Mortgage,0,1174
+BRW-0217,31,KY,Bachelor,Retired,7,38662,806,Rent,2,512
+BRW-0218,37,VA,Bachelor,Part-Time,14,49958,799,Mortgage,0,1382
+BRW-0219,25,OK,Master,Contract,1,71945,809,Own,1,648
+BRW-0220,35,IN,Master,Full-Time,1,131724,778,Mortgage,1,3643
+BRW-0221,57,AL,Bachelor,Contract,16,86745,742,Rent,0,625
+BRW-0222,49,MI,Associate,Full-Time,29,75328,570,Mortgage,1,2727
+BRW-0223,63,UT,Doctorate,Part-Time,28,60734,730,Rent,1,456
+BRW-0224,64,WA,Master,Full-Time,11,128412,610,Rent,1,4429
+BRW-0225,36,OR,Master,Self-Employed,13,138554,787,Mortgage,0,3236
+BRW-0226,31,AZ,Associate,Retired,0,37737,582,Rent,2,1629
+BRW-0227,23,TX,Associate,Full-Time,0,56840,758,Own,1,791
+BRW-0228,35,AL,Master,Self-Employed,7,66623,683,Rent,2,1880
+BRW-0229,65,NC,Master,Full-Time,14,129782,816,Mortgage,0,5669
+BRW-0230,33,KY,Bachelor,Full-Time,10,72220,711,Rent,1,2396
+BRW-0231,48,MI,High School,Full-Time,7,48955,772,Rent,3,498
+BRW-0232,51,NC,Master,Part-Time,8,75699,820,Mortgage,0,2355
+BRW-0233,50,MN,Master,Full-Time,1,116769,642,Mortgage,2,678
+BRW-0234,26,OK,High School,Self-Employed,1,47895,816,Mortgage,3,804
+BRW-0235,22,SC,Associate,Full-Time,0,63656,780,Rent,0,2692
+BRW-0236,57,IN,Associate,Full-Time,19,50940,713,Mortgage,3,1201
+BRW-0237,68,MD,Bachelor,Contract,20,98934,729,Mortgage,3,3467
+BRW-0238,23,NJ,Associate,Retired,2,33693,738,Own,0,940
+BRW-0239,37,CO,Bachelor,Self-Employed,15,84293,671,Rent,2,1969
+BRW-0240,68,MO,Master,Full-Time,11,116402,795,Rent,4,5127
+BRW-0241,55,OR,High School,Contract,0,55670,554,Mortgage,2,389
+BRW-0242,31,WI,High School,Full-Time,10,35536,841,Rent,3,1124
+BRW-0243,23,MI,High School,Part-Time,2,12549,791,Mortgage,0,477
+BRW-0244,65,OH,Bachelor,Retired,33,31222,574,Own,2,458
+BRW-0245,44,SC,Associate,Full-Time,14,46634,737,Mortgage,0,1523
+BRW-0246,27,MO,Bachelor,Contract,6,89061,587,Mortgage,1,2733
+BRW-0247,66,UT,High School,Full-Time,6,37673,694,Rent,0,488
+BRW-0248,66,MD,Master,Full-Time,17,58595,568,Rent,2,682
+BRW-0249,42,MD,High School,Full-Time,2,27475,728,Mortgage,0,1069
+BRW-0250,46,AL,Bachelor,Full-Time,25,65089,606,Rent,0,2292
+BRW-0251,44,WI,High School,Full-Time,19,51921,704,Rent,1,1889
+BRW-0252,23,WA,Bachelor,Self-Employed,2,69345,651,Mortgage,1,2252
+BRW-0253,64,IL,Bachelor,Self-Employed,4,59445,656,Own,1,2189
+BRW-0254,31,LA,Master,Full-Time,4,63742,537,Mortgage,0,617
+BRW-0255,33,MO,Bachelor,Part-Time,0,40311,582,Own,0,1172
+BRW-0256,42,GA,Master,Full-Time,17,90104,583,Rent,2,1012
+BRW-0257,46,NC,High School,Full-Time,2,31847,599,Own,1,775
+BRW-0258,26,MA,Bachelor,Retired,4,51955,783,Mortgage,0,876
+BRW-0259,47,OR,Associate,Part-Time,14,36601,693,Mortgage,3,1145
+BRW-0260,60,WA,High School,Full-Time,30,55744,632,Mortgage,4,909
+BRW-0261,66,KY,Bachelor,Retired,24,54293,696,Mortgage,1,483
+BRW-0262,58,MA,High School,Retired,1,17239,801,Rent,3,222
+BRW-0263,40,MI,Master,Full-Time,15,127340,759,Own,0,4025
+BRW-0264,67,MO,Bachelor,Full-Time,30,69250,841,Mortgage,1,2944
+BRW-0265,66,GA,Bachelor,Full-Time,5,102385,819,Own,2,1941
+BRW-0266,63,AZ,Bachelor,Part-Time,21,44963,734,Rent,0,372
+BRW-0267,36,WA,Bachelor,Full-Time,7,77637,829,Mortgage,1,2521
+BRW-0268,66,NY,Bachelor,Full-Time,18,42167,583,Mortgage,0,1828
+BRW-0269,31,FL,Associate,Full-Time,7,65633,801,Mortgage,1,2178
+BRW-0270,42,MN,High School,Full-Time,10,47419,541,Mortgage,3,2034
+BRW-0271,37,WA,Bachelor,Part-Time,14,33944,743,Own,2,405
+BRW-0272,64,WA,Bachelor,Full-Time,28,79780,636,Mortgage,0,1046
+BRW-0273,39,NJ,Master,Contract,17,59967,582,Own,0,534
+BRW-0274,64,MD,Master,Full-Time,24,109435,850,Mortgage,0,2060
+BRW-0275,51,NJ,Bachelor,Contract,5,85642,692,Rent,0,1446
+BRW-0276,33,AZ,Bachelor,Full-Time,2,65383,840,Mortgage,0,2003
+BRW-0277,66,PA,Master,Retired,31,41677,615,Mortgage,1,956
+BRW-0278,25,IN,Master,Retired,3,57707,629,Rent,2,1224
+BRW-0279,53,GA,Bachelor,Contract,1,71779,577,Rent,0,1121
+BRW-0280,56,MD,Associate,Self-Employed,35,55533,783,Mortgage,0,2024
+BRW-0281,45,AZ,Bachelor,Self-Employed,17,89088,765,Own,0,3452
+BRW-0282,37,FL,Associate,Retired,2,30106,703,Mortgage,2,422
+BRW-0283,59,KY,Bachelor,Contract,10,79534,754,Mortgage,0,1017
+BRW-0284,25,MI,Bachelor,Full-Time,2,78679,621,Rent,0,1204
+BRW-0285,54,OK,Doctorate,Self-Employed,3,76451,745,Rent,2,2552
+BRW-0286,30,CO,Associate,Self-Employed,7,67675,736,Own,0,1450
+BRW-0287,50,SC,High School,Self-Employed,16,49464,736,Rent,3,966
+BRW-0288,53,SC,Associate,Full-Time,29,65165,582,Mortgage,1,443
+BRW-0289,56,MI,Bachelor,Retired,17,55935,783,Mortgage,1,1580
+BRW-0290,58,KY,Master,Self-Employed,2,131318,574,Own,3,636
+BRW-0291,32,CT,Bachelor,Full-Time,11,101722,648,Rent,2,1097
+BRW-0292,39,MI,High School,Full-Time,1,25301,609,Mortgage,2,901
+BRW-0293,49,GA,Bachelor,Self-Employed,2,40669,774,Own,1,923
+BRW-0294,22,NY,Bachelor,Contract,2,103644,761,Own,0,817
+BRW-0295,28,MN,High School,Full-Time,2,32933,720,Mortgage,0,865
+BRW-0296,22,UT,Bachelor,Full-Time,2,63005,644,Rent,1,2064
+BRW-0297,35,AZ,High School,Full-Time,12,48886,831,Mortgage,1,488
+BRW-0298,39,SC,Bachelor,Full-Time,9,78943,846,Rent,0,3115
+BRW-0299,41,KY,Associate,Part-Time,9,20963,725,Mortgage,3,921
+BRW-0300,53,CA,Bachelor,Full-Time,33,81309,576,Rent,4,3502
+BRW-0301,30,TN,Bachelor,Contract,10,67451,814,Own,4,2446
+BRW-0302,23,CO,Bachelor,Full-Time,3,54364,560,Mortgage,2,1964
+BRW-0303,49,MI,Master,Full-Time,4,100637,850,Mortgage,0,4280
+BRW-0304,31,AZ,Bachelor,Full-Time,1,81067,850,Mortgage,2,3196
+BRW-0305,25,MN,Associate,Retired,4,20854,838,Own,2,730
+BRW-0306,29,KY,High School,Full-Time,5,22799,779,Mortgage,3,341
+BRW-0307,45,NJ,High School,Self-Employed,24,31860,585,Rent,3,493
+BRW-0308,26,TX,Associate,Retired,3,35035,779,Mortgage,1,973
+BRW-0309,45,CA,High School,Self-Employed,7,53878,589,Rent,0,2161
+BRW-0310,37,UT,High School,Full-Time,1,54791,621,Mortgage,2,1725
+BRW-0311,36,FL,Associate,Full-Time,2,62677,673,Mortgage,1,2616
+BRW-0312,33,OK,Associate,Full-Time,1,31521,730,Rent,0,1240
+BRW-0313,42,AL,High School,Full-Time,18,35385,674,Rent,2,831
+BRW-0314,59,UT,Doctorate,Retired,15,88548,819,Own,1,1228
+BRW-0315,44,WA,Bachelor,Self-Employed,0,41212,701,Rent,3,1420
+BRW-0316,28,NY,Associate,Retired,2,29277,555,Rent,0,404
+BRW-0317,55,CO,Bachelor,Contract,6,69849,578,Mortgage,3,508
+BRW-0318,58,UT,High School,Self-Employed,16,27000,674,Rent,3,900
+BRW-0319,42,MD,Associate,Full-Time,4,32850,628,Rent,0,281
+BRW-0320,50,NC,Bachelor,Full-Time,14,74791,641,Mortgage,3,593
+BRW-0321,65,SC,Associate,Self-Employed,20,57272,640,Own,0,1087
+BRW-0322,54,OK,High School,Full-Time,1,51267,619,Rent,1,1811
+BRW-0323,37,LA,High School,Full-Time,0,50342,592,Own,4,483
+BRW-0324,47,OR,Bachelor,Part-Time,18,44951,828,Mortgage,0,2054
+BRW-0325,34,MA,Master,Full-Time,1,65650,704,Own,0,2801
+BRW-0326,49,UT,Master,Full-Time,5,57129,748,Mortgage,0,904
+BRW-0327,31,MO,High School,Part-Time,7,17078,671,Mortgage,1,133
+BRW-0328,46,KY,High School,Full-Time,7,53539,799,Mortgage,1,266
+BRW-0329,46,IN,Master,Full-Time,11,101319,793,Rent,1,1563
+BRW-0330,23,TN,Associate,Full-Time,0,70784,678,Rent,1,2556
+BRW-0331,36,GA,Doctorate,Full-Time,1,135142,686,Rent,2,6096
+BRW-0332,46,KY,Bachelor,Contract,7,94525,630,Mortgage,2,1806
+BRW-0333,59,OH,High School,Self-Employed,9,55754,818,Mortgage,3,2114
+BRW-0334,53,CA,Bachelor,Full-Time,14,43022,558,Mortgage,1,180
+BRW-0335,61,MD,Associate,Full-Time,3,62522,700,Own,2,629
+BRW-0336,29,NJ,Master,Contract,6,137015,741,Mortgage,1,1349
+BRW-0337,32,SC,Master,Full-Time,10,109449,794,Mortgage,4,3618
+BRW-0338,61,SC,Master,Full-Time,24,105131,634,Mortgage,0,1216
+BRW-0339,22,NJ,Master,Retired,0,52919,820,Own,3,2353
+BRW-0340,36,NJ,Bachelor,Full-Time,2,72256,704,Own,0,2966
+BRW-0341,27,OH,Master,Self-Employed,7,117172,716,Own,0,819
+BRW-0342,38,CT,Master,Self-Employed,13,58731,754,Rent,1,2402
+BRW-0343,44,GA,Bachelor,Full-Time,20,71191,830,Rent,0,515
+BRW-0344,24,WA,Associate,Full-Time,2,73366,572,Own,0,534
+BRW-0345,27,PA,Associate,Retired,6,42400,545,Rent,2,943
+BRW-0346,25,MO,High School,Full-Time,5,29087,808,Rent,0,462
+BRW-0347,37,CA,High School,Full-Time,4,41748,781,Own,1,686
+BRW-0348,64,NY,Bachelor,Full-Time,10,46787,635,Mortgage,1,420
+BRW-0349,47,VA,Bachelor,Contract,17,57507,850,Mortgage,3,1124
+BRW-0350,50,LA,High School,Full-Time,18,31671,662,Own,2,259
+BRW-0351,64,OR,Associate,Full-Time,14,74246,836,Mortgage,1,1926
+BRW-0352,56,WA,Bachelor,Retired,30,46283,650,Mortgage,3,1570
+BRW-0353,54,LA,Bachelor,Full-Time,9,77060,850,Own,1,3368
+BRW-0354,32,AZ,Doctorate,Contract,1,79686,751,Rent,0,3063
+BRW-0355,31,WA,Master,Full-Time,1,132747,584,Mortgage,2,5291
+BRW-0356,55,FL,Bachelor,Contract,33,90781,850,Rent,1,938
+BRW-0357,59,OK,Bachelor,Retired,6,28195,579,Rent,1,521
+BRW-0358,48,WA,Associate,Self-Employed,1,55827,772,Own,0,1648
+BRW-0359,66,UT,Bachelor,Full-Time,3,96677,661,Rent,0,1903
+BRW-0360,43,OK,Master,Full-Time,22,78653,786,Rent,0,1312
+BRW-0361,50,MA,Master,Full-Time,20,117130,850,Own,0,4509
+BRW-0362,53,SC,Master,Contract,10,125043,813,Own,1,1227
+BRW-0363,55,MA,Master,Full-Time,3,71139,637,Own,0,1364
+BRW-0364,34,CA,Associate,Contract,14,52736,850,Own,0,1293
+BRW-0365,50,CT,High School,Contract,11,43058,709,Own,0,1670
+BRW-0366,27,CO,Associate,Full-Time,3,36926,817,Rent,0,471
+BRW-0367,63,CO,Bachelor,Full-Time,30,90383,544,Rent,0,3392
+BRW-0368,36,WA,Associate,Contract,8,43512,850,Mortgage,3,1013
+BRW-0369,35,MN,Bachelor,Self-Employed,3,93191,743,Own,4,3647
+BRW-0370,57,NC,Bachelor,Part-Time,30,32803,580,Own,2,1314
+BRW-0371,38,GA,Bachelor,Retired,4,49297,626,Mortgage,3,1859
+BRW-0372,60,NC,Bachelor,Full-Time,31,49527,543,Rent,3,1041
+BRW-0373,24,CO,Bachelor,Retired,1,55596,705,Rent,2,2331
+BRW-0374,64,TN,Bachelor,Full-Time,11,51445,815,Mortgage,0,768
+BRW-0375,57,GA,Master,Full-Time,5,112919,716,Own,2,1915
+BRW-0376,43,CO,Bachelor,Part-Time,15,38602,585,Own,2,1679
+BRW-0377,26,TX,Bachelor,Full-Time,4,48244,725,Mortgage,3,504
+BRW-0378,34,SC,Associate,Retired,2,42389,764,Mortgage,0,319
+BRW-0379,43,LA,Bachelor,Full-Time,14,81081,542,Mortgage,2,2284
+BRW-0380,32,WA,Bachelor,Self-Employed,6,46217,844,Mortgage,1,1111
+BRW-0381,22,IN,High School,Full-Time,1,35533,532,Rent,0,1150
+BRW-0382,62,IN,Master,Full-Time,8,129845,709,Own,2,1444
+BRW-0383,24,CT,Associate,Full-Time,4,63025,840,Mortgage,2,613
+BRW-0384,53,AL,Bachelor,Full-Time,1,101087,751,Own,4,1310
+BRW-0385,23,NC,Bachelor,Full-Time,3,63988,554,Rent,2,1927
+BRW-0386,60,AZ,Doctorate,Self-Employed,3,134797,560,Rent,1,1255
+BRW-0387,38,MN,Bachelor,Full-Time,0,84953,850,Mortgage,0,2195
+BRW-0388,61,FL,Bachelor,Full-Time,32,93595,593,Rent,0,3450
+BRW-0389,53,AZ,High School,Full-Time,12,31657,792,Mortgage,0,183
+BRW-0390,53,NY,Master,Self-Employed,0,95840,660,Own,3,3734
+BRW-0391,64,CO,Bachelor,Retired,6,54199,568,Rent,0,2458
+BRW-0392,40,MN,Associate,Full-Time,9,66968,555,Mortgage,1,2339
+BRW-0393,28,CT,Master,Contract,2,55429,600,Mortgage,1,1667
+BRW-0394,68,NC,High School,Contract,25,28837,730,Rent,3,949
+BRW-0395,52,TX,Master,Part-Time,8,67635,592,Rent,4,2661
+BRW-0396,28,LA,Bachelor,Part-Time,2,50481,754,Mortgage,1,270
+BRW-0397,65,AZ,Master,Self-Employed,31,131113,797,Own,1,892
+BRW-0398,63,MN,Associate,Self-Employed,14,60720,830,Rent,3,1566
+BRW-0399,66,MN,Master,Full-Time,30,111374,672,Mortgage,2,1153
+BRW-0400,57,OK,Master,Part-Time,32,30579,605,Rent,1,338
+BRW-0401,53,WA,Associate,Full-Time,14,42250,789,Mortgage,1,589
+BRW-0402,51,TN,Bachelor,Part-Time,28,25418,780,Mortgage,2,124
+BRW-0403,47,WI,Bachelor,Part-Time,25,22335,571,Mortgage,2,921
+BRW-0404,57,OK,Associate,Self-Employed,3,73306,721,Rent,1,2016
+BRW-0405,61,MN,Bachelor,Self-Employed,7,63778,766,Own,0,1172
+BRW-0406,62,TN,Doctorate,Full-Time,2,121047,604,Rent,0,4119
+BRW-0407,68,OR,Bachelor,Full-Time,25,53099,591,Own,2,1807
+BRW-0408,28,MA,Master,Full-Time,1,108932,846,Rent,1,3128
+BRW-0409,54,TN,High School,Full-Time,27,41068,554,Rent,3,1507
+BRW-0410,33,WI,Bachelor,Full-Time,6,92612,593,Rent,3,2331
+BRW-0411,46,NJ,Bachelor,Part-Time,8,46630,657,Mortgage,4,1074
+BRW-0412,30,MO,High School,Part-Time,4,29481,787,Rent,3,997
+BRW-0413,57,IL,Bachelor,Full-Time,22,80421,688,Rent,4,2513
+BRW-0414,33,TN,Bachelor,Self-Employed,12,61167,594,Mortgage,2,2657
+BRW-0415,67,IN,Bachelor,Self-Employed,27,94280,686,Rent,0,1889
+BRW-0416,25,IL,Bachelor,Full-Time,2,88461,622,Rent,3,2914
+BRW-0417,40,MN,Associate,Full-Time,3,45971,761,Mortgage,2,1848
+BRW-0418,63,WA,Bachelor,Full-Time,3,90638,687,Rent,1,3354
+BRW-0419,65,LA,Associate,Part-Time,12,16498,648,Mortgage,3,373
+BRW-0420,36,OH,Master,Self-Employed,6,110166,846,Rent,0,1273
+BRW-0421,65,NC,High School,Retired,24,28964,586,Own,2,277
+BRW-0422,59,NJ,Master,Full-Time,2,94611,619,Own,2,3444
+BRW-0423,62,KY,Bachelor,Self-Employed,35,71897,828,Mortgage,2,1873
+BRW-0424,33,VA,Bachelor,Self-Employed,8,50767,808,Mortgage,0,662
+BRW-0425,43,MO,Associate,Full-Time,16,73304,850,Mortgage,3,3302
+BRW-0426,22,GA,High School,Full-Time,2,30860,850,Rent,4,1006
+BRW-0427,42,CA,Bachelor,Self-Employed,17,47833,661,Rent,3,1837
+BRW-0428,45,IN,Bachelor,Full-Time,20,71658,686,Own,0,585
+BRW-0429,56,AZ,Bachelor,Part-Time,13,29725,847,Rent,3,378
+BRW-0430,66,SC,Master,Self-Employed,9,91943,576,Own,1,718
+BRW-0431,25,MA,High School,Full-Time,2,24879,641,Mortgage,2,552
+BRW-0432,23,MD,Bachelor,Full-Time,0,40976,846,Rent,0,1618
+BRW-0433,44,LA,Master,Full-Time,19,122115,704,Own,3,2449
+BRW-0434,64,CO,High School,Full-Time,34,30139,725,Mortgage,0,976
+BRW-0435,68,CA,Bachelor,Retired,9,24786,809,Own,2,510
+BRW-0436,57,CO,Master,Full-Time,13,118803,721,Mortgage,3,1200
+BRW-0437,33,OK,Associate,Contract,10,38377,617,Rent,0,1360
+BRW-0438,57,AL,Bachelor,Full-Time,16,59143,564,Own,2,2591
+BRW-0439,44,NJ,High School,Self-Employed,2,25921,842,Rent,1,462
+BRW-0440,64,PA,Associate,Part-Time,20,30540,711,Rent,0,440
+BRW-0441,36,NJ,Master,Part-Time,4,43086,714,Rent,3,1010
+BRW-0442,44,NC,Master,Full-Time,19,63937,850,Own,3,639
+BRW-0443,56,CO,High School,Self-Employed,1,44456,568,Rent,0,1263
+BRW-0444,47,MO,Master,Full-Time,17,57745,663,Rent,1,2105
+BRW-0445,45,IN,Bachelor,Contract,4,78216,683,Mortgage,0,1511
+BRW-0446,22,IN,Bachelor,Contract,2,92057,850,Own,0,994
+BRW-0447,58,LA,Master,Self-Employed,22,137631,797,Own,1,933
+BRW-0448,45,MA,Associate,Self-Employed,12,53326,714,Mortgage,3,310
+BRW-0449,63,MD,Associate,Self-Employed,16,53487,670,Mortgage,0,1679
+BRW-0450,45,GA,Bachelor,Contract,12,45566,658,Rent,1,859
+BRW-0451,44,GA,Bachelor,Full-Time,4,79148,791,Mortgage,0,2451
+BRW-0452,35,NJ,High School,Full-Time,7,43591,590,Mortgage,2,1056
+BRW-0453,52,IL,Bachelor,Part-Time,1,45042,740,Own,2,490
+BRW-0454,62,IN,Bachelor,Contract,16,49969,615,Rent,4,1456
+BRW-0455,58,WI,Bachelor,Contract,5,87044,685,Own,4,3508
+BRW-0456,32,MN,Associate,Full-Time,12,35993,823,Own,1,401
+BRW-0457,65,FL,Associate,Full-Time,24,56685,647,Mortgage,0,1470
+BRW-0458,54,WI,Bachelor,Contract,30,79231,625,Rent,0,2917
+BRW-0459,54,CT,Master,Full-Time,34,111175,850,Rent,3,3606
+BRW-0460,49,KY,Bachelor,Full-Time,13,43371,801,Own,1,1569
+BRW-0461,44,NC,Bachelor,Self-Employed,3,89186,834,Mortgage,1,1235
+BRW-0462,27,KY,Associate,Contract,0,48279,626,Rent,0,1252
+BRW-0463,55,IL,High School,Self-Employed,26,46609,691,Mortgage,1,1331
+BRW-0464,38,AZ,Master,Full-Time,12,85972,681,Rent,2,2355
+BRW-0465,33,SC,Bachelor,Part-Time,9,31235,682,Mortgage,1,309
+BRW-0466,64,WA,High School,Full-Time,6,49965,612,Own,2,1875
+BRW-0467,61,OR,Bachelor,Self-Employed,0,50855,850,Rent,0,2173
+BRW-0468,49,UT,High School,Full-Time,1,35453,836,Rent,4,1054
+BRW-0469,55,OH,Associate,Retired,31,19232,609,Mortgage,3,825
+BRW-0470,55,MN,Associate,Full-Time,14,57097,794,Mortgage,0,807
+BRW-0471,22,WA,Doctorate,Full-Time,1,95335,744,Rent,2,2453
+BRW-0472,67,OR,High School,Full-Time,22,32414,811,Mortgage,0,954
+BRW-0473,34,MO,Bachelor,Full-Time,6,40896,619,Mortgage,0,671
+BRW-0474,29,WA,Master,Retired,4,77862,829,Rent,2,2822
+BRW-0475,43,NC,Doctorate,Full-Time,0,114645,845,Mortgage,0,3504
+BRW-0476,36,SC,Bachelor,Full-Time,16,60743,715,Mortgage,3,881
+BRW-0477,27,VA,Bachelor,Self-Employed,2,62419,818,Mortgage,0,1752
+BRW-0478,33,AL,Master,Self-Employed,11,132671,805,Own,0,2019
+BRW-0479,36,NY,Associate,Full-Time,3,57979,609,Own,2,1844
+BRW-0480,61,TN,High School,Contract,23,56121,776,Mortgage,3,2293
+BRW-0481,58,LA,Master,Full-Time,17,139061,811,Mortgage,2,893
+BRW-0482,49,PA,Bachelor,Full-Time,27,72657,736,Rent,1,667
+BRW-0483,55,NJ,Bachelor,Self-Employed,24,41354,637,Mortgage,1,1657
+BRW-0484,33,TN,Bachelor,Full-Time,5,70671,848,Mortgage,1,1528
+BRW-0485,45,MN,Bachelor,Full-Time,4,69356,827,Rent,0,577
+BRW-0486,39,AL,Master,Part-Time,4,70439,635,Rent,0,2658
+BRW-0487,33,NJ,Bachelor,Full-Time,8,97590,850,Mortgage,2,1626
+BRW-0488,57,NC,Master,Full-Time,3,63092,618,Own,1,1918
+BRW-0489,50,VA,Master,Full-Time,29,85514,825,Rent,0,788
+BRW-0490,65,MI,Doctorate,Full-Time,11,126680,825,Rent,1,4081
+BRW-0491,53,IL,Master,Full-Time,18,61327,849,Mortgage,3,1892
+BRW-0492,43,GA,Bachelor,Part-Time,2,36533,561,Own,1,1146
+BRW-0493,67,IN,Associate,Part-Time,23,23062,752,Rent,4,493
+BRW-0494,33,NY,Master,Full-Time,11,74731,663,Rent,0,1547
+BRW-0495,28,NY,High School,Contract,6,41704,543,Mortgage,0,1247
+BRW-0496,27,IL,Bachelor,Contract,4,60337,661,Mortgage,0,2359
+BRW-0497,23,MO,High School,Full-Time,3,54617,773,Rent,3,1475
+BRW-0498,30,CO,Doctorate,Self-Employed,7,85000,845,Mortgage,3,1894
+BRW-0499,62,MA,Bachelor,Full-Time,14,62749,811,Rent,1,1339
+BRW-0500,31,MO,Associate,Full-Time,5,67070,604,Mortgage,0,2856
