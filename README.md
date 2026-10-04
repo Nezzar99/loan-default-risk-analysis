@@ -12,7 +12,7 @@ credit risk dashboard.
 
 ## Power BI Dashboard
 
-![Loan Default Risk Dashboard](Dashboard/loan_default_dashboard.png)
+![Loan Default Risk Dashboard](loan_default_dashboard.png)
 
 ## Key Findings
 
